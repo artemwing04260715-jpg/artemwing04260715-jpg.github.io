@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://junrui.github.io//sitemap.xml
+Sitemap: https://artemwing04260715-jpg.github.io//sitemap.xml
