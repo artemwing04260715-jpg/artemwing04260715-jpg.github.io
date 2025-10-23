@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://junrui.github.io//sitemap.xml
